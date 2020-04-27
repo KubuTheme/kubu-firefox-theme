@@ -1,0 +1,32 @@
+{
+  "manifest_version": 2,
+  "version": "1.2",
+  "name": "Kubu",
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-000-5672c42860d5b06e1058dc477397f3ef.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(239, 239, 239)",
+      "toolbar_text": "rgb(30, 30, 30)",
+      "frame": "rgb(30, 30, 30)",
+      "tab_background_text": "rgb(211, 211, 211)",
+      "toolbar_field": "rgb(255, 255, 255)",
+      "toolbar_field_text": "rgb(30, 30, 30)",
+      "tab_line": "rgb(255, 255, 255)",
+      "popup": "rgb(244, 244, 244)",
+      "popup_text": "rgb(30, 30, 30)",
+      "tab_loading": "rgb(255, 255, 255)"
+    }
+  }
+}
